@@ -1,5 +1,5 @@
 ## What are we doing
-The AIM MMP (Missionary Management Platform) project aims to replace the CHARIS system with something that provides better functionality and works for all the AIM offices. 
+The AIM MMP (Member Management Platform) project aims to replace the CHARIS system with something that provides better functionality and works for all the AIM offices. 
 
 The three main areas we're focusing on are:
 

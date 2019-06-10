@@ -15,7 +15,7 @@ Please do continue to send in your questions, comments and suggestions to [**hri
 - - -
 # April 2019
 
-We're announcing the AIM MMP (Missionary Management Project). First, read the [project overview](/overview) to understand what the project is aiming to achieve.
+We're announcing the AIM MMP (Member Management Project). First, read the [project overview](/overview) to understand what the project is aiming to achieve.
 
 We’re in the early stages of the project so will be spending our time over the coming weeks researching and listening to your needs. 
 
