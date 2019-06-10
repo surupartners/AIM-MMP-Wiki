@@ -1,11 +1,15 @@
-site_name: LMMS Dashboards front-end
+site_name: AIM MMP
 site_url: https://aim.docs.surupartners.com
 site_author: Suru Partners Ltd.
 repo_url: https://github.com/surupartners/AIM-MMP-Wiki
 edit_uri: src/master/docs
 google_analytics: ['UA-118986957-5', 'aim.docs.surupartners.com']
-theme: readthedocs
+theme:
+  name: readthedocs
+  custom_dir: mkdocs_custom_theme/
 site_dir: docs_dist
 extra_css: [extra.css]
 nav:
   - Home: index.md
+  - Project overview: overview.md
+  - Updates: updates.md

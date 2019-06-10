@@ -1,6 +1,31 @@
+ul li + li,
 ol li + li {
-    margin-top: 1em;
+    margin-top: 0.5em;
 }
+ul li li + li,
 ol li li + li {
     margin-top: 0.25em;
+}
+p, .rst-content .section ol, .rst-content .section ul {
+    margin-bottom: 0.75em;
+}
+h2 {
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+.logo--home {
+    float: right;
+    margin: 0 0 2em 2em;
+    width: 8em;
+}
+.wy-breadcrumbs-aside.wy-breadcrumbs-aside {
+    display: none;
+}
+/* li */.toctree-l2.toctree-l2.toctree-l2 a {
+    padding-left: 1.627em;
+}
+/* a */.toctree-l3.toctree-l3.toctree-l3 {
+    padding-left: 3em;
+    font-size: 0.85em;
+    line-height: 1.15;
 }

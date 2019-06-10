@@ -16,4 +16,4 @@ Docs are built into a static site using [`mkdocs`](https://www.mkdocs.org/)
 
 ## Publishing docs
 
-Docs are automatically deployed by [Netlify](https://app.netlify.com/sites/lmms-docs-dashboards-frontend).
+Docs are automatically deployed by [Netlify](https://app.netlify.com/sites/aim-wiki).
