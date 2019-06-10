@@ -29,3 +29,8 @@ h2 {
     font-size: 0.85em;
     line-height: 1.15;
 }
+/* img */.overview-diagram.overview-diagram {
+    max-width: 35em;
+    margin: 5em auto;
+    display: block;
+}

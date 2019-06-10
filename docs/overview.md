@@ -13,6 +13,8 @@ The project will start with research; time spent listening to you and your needs
 
 Our research will inform the scope of what the new system will be able to support across the three areas. We are confident that, through this process, we will identify where a new system will reduce duplication, speed up processes and generally reduce administrative burden across the organisation. We also need to be realistic — AIM's resources are not unlimited so not every idea we discuss in our research (nor everything you currently do across all your on- and off-line processes) will be incorporated into the new system. However, we are confident that by working together we can prioritise the right things and achieve another leap forward in technological support for our great commission.
 
+<img class="overview-diagram" src="/images/overview.svg" />
+
 ## Why are we doing it
 The current CHARIS system was a great advance for AIM to bring our process of handling personnel data from pen, paper, email and separated systems to a global personnel system. This success represented a lot of effort from the AIM team.
 

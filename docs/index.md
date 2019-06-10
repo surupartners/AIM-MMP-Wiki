@@ -8,3 +8,5 @@ You can read an [overview](./overview) of what the project is doing and we'll be
 
 - Read the [**Project overview**](./overview)
 - Contact us with suggestions, requests or comments on [**hrissupport@aimint.org**](mailto:hrissupport@aimint.org)
+
+<img class="overview-diagram" src="/images/overview.svg" />

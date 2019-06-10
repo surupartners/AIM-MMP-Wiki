@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="163 359.5 831.5 482.5" width="831.5" height="482.5">
+  <defs>
+    <font-face font-family="Whitney HTF" font-size="20" units-per-em="1000" underline-position="-133" underline-thickness="20" slope="0" x-height="484" cap-height="690" ascent="951.0019" descent="-200.0004" font-weight="500">
+      <font-face-src>
+        <font-face-name name="WhitneyHTF-Medium"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#3c4d61">
+      <g>
+        <path d="M 3.7333333 0 L 0 -1.4 L 0 1.4 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Whitney HTF" font-size="30" units-per-em="1000" underline-position="-133" underline-thickness="20" slope="0" x-height="516" cap-height="690" ascent="942.0019" descent="-200.0004" font-weight="600">
+      <font-face-src>
+        <font-face-name name="WhitneyHTF-MediumSC"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Whitney HTF" font-size="15" units-per-em="1000" underline-position="-133" underline-thickness="20" slope="0" x-height="522" cap-height="690" ascent="947.0019" descent="-200.0004" font-weight="600">
+      <font-face-src>
+        <font-face-name name="WhitneyHTF-SemiBoldSC"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-06-10 13:59:18 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_2" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none" fill-opacity="1">
+    <title>Canvas 2</title>
+    <g id="Canvas_2: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_20">
+        <g id="Group_18">
+          <g id="Graphic_6">
+            <rect x="164.5" y="743" width="342.5" height="97.5" fill="white"/>
+            <rect x="164.5" y="743" width="342.5" height="97.5" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(169.5 779.25)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="56.5" y="19">Implementation &amp; Roll out</tspan>
+            </text>
+          </g>
+          <g id="Graphic_5">
+            <rect x="164.5" y="588" width="342.5" height="97.5" fill="white"/>
+            <rect x="164.5" y="588" width="342.5" height="97.5" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(169.5 624.25)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="89.8" y="19">Design &amp; Planning</tspan>
+            </text>
+          </g>
+          <g id="Graphic_4">
+            <rect x="164.5" y="433" width="342.5" height="97.5" fill="white"/>
+            <rect x="164.5" y="433" width="342.5" height="97.5" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(169.5 469.25)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="78.91" y="19">Listening &amp; Research</tspan>
+            </text>
+          </g>
+          <g id="Line_9">
+            <line x1="335.75" y1="532" x2="335.75" y2="570.6" marker-end="url(#FilledArrow_Marker)" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_10">
+            <line x1="335.75" y1="687" x2="335.75" y2="725.6" marker-end="url(#FilledArrow_Marker)" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+        <g id="Graphic_15">
+          <text transform="translate(260.035 364.5)" fill="#3c4d61">
+            <tspan font-family="Whitney HTF" font-size="30" font-weight="600" fill="#3c4d61" x="14210855e-20" y="28">the process</tspan>
+          </text>
+        </g>
+        <g id="Graphic_22">
+          <path d="M 386.8665 419 L 505.1335 419 C 513.6202 419 520.5 425.8798 520.5 434.3665 L 520.5 434.3665 C 520.5 442.8532 513.6202 449.733 505.1335 449.733 L 386.8665 449.733 C 378.3798 449.733 371.5 442.8532 371.5 434.3665 L 371.5 434.3665 C 371.5 425.8798 378.3798 419 386.8665 419 Z" fill="#cce8f3"/>
+          <text transform="translate(376.5 424.8665)" fill="#2a7ba5">
+            <tspan font-family="Whitney HTF" font-size="15" font-weight="600" fill="#2a7ba5" x="7.905" y="14">where we are now</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_19">
+        <g id="Group_17">
+          <g id="Graphic_3">
+            <circle cx="797.75" cy="524.25" r="91.250145808548" fill="white"/>
+            <circle cx="797.75" cy="524.25" r="91.250145808548" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(729.75 501.25)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="7.36" y="19">Recruitment &amp; </tspan>
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="18.16" y="42">Onboarding</tspan>
+            </text>
+          </g>
+          <g id="Graphic_7">
+            <circle cx="693.75" cy="703.75" r="91.250145808548" fill="white"/>
+            <circle cx="693.75" cy="703.75" r="91.250145808548" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(625.75 680.75)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="7.84" y="19">Requisitions &amp; </tspan>
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="13.38" y="42">Assignments</tspan>
+            </text>
+          </g>
+          <g id="Graphic_8">
+            <circle cx="901.75" cy="703.75" r="91.250145808548" fill="white"/>
+            <circle cx="901.75" cy="703.75" r="91.250145808548" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+            <text transform="translate(833.75 680.75)" fill="#3c4d61">
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="4.33" y="19">Personnel Data </tspan>
+              <tspan font-family="Whitney HTF" font-size="20" font-weight="500" fill="#3c4d61" x="23.54" y="42">&amp; Tracking</tspan>
+            </text>
+          </g>
+          <g id="Line_12">
+            <line x1="751.241" y1="604.5228" x2="740.259" y2="623.4772" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_13">
+            <line x1="786.5" y1="703.75" x2="809" y2="703.75" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+          <g id="Line_14">
+            <line x1="844.259" y1="604.5228" x2="855.241" y2="623.4772" stroke="#3c4d61" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          </g>
+        </g>
+        <g id="Graphic_16">
+          <text transform="translate(646.29 364.5)" fill="#3c4d61">
+            <tspan font-family="Whitney HTF" font-size="30" font-weight="600" fill="#3c4d61" x="0" y="28">the three system areas</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
