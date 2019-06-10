@@ -1,0 +1,3 @@
+# AIM MMP (Missionary Management Platform)
+
+The AIM Missionary Management Platform (MMP) project...
