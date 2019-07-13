@@ -9,4 +9,7 @@ You can read an [overview](./overview) of what the project is doing and we'll be
 - Read the [**Project overview**](./overview)
 - Contact us with suggestions, requests or comments on [**hrissupport@aimint.org**](mailto:hrissupport@aimint.org)
 
-<img class="overview-diagram" src="/images/overview.svg" />
+<img class="l-push-ends" src="/images/overview.svg" />
+
+### Introduction to the project and the team
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/555049d4311e47928cfe978726a62c01" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

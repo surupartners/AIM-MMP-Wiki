@@ -31,6 +31,24 @@ h2 {
 }
 /* img */.overview-diagram.overview-diagram {
     max-width: 35em;
-    margin: 5em auto;
     display: block;
+}
+
+.l-push-ends {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.l-push-ends--large {
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+.l-push-bottom {
+    margin-bottom: 2em;
+}
+.l-push-bottom--large {
+    margin-bottom: 5em;
+}
+
+:target {
+    background: yellow;
 }
