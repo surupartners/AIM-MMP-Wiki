@@ -8,9 +8,9 @@ We look forward to an engaging, insightful, and fun time with you all.
 
 First we want to introduce you to Tom and Harrison, directors of Suru Partners who are leading AIM through the MMP project and who will be facilitating the forum.
 
-You can find more details on the project areas discussed in the video [here](./overview.md#how-are-we-doing-it).
-
 <iframe width="392" height="220" src="https://www.youtube.com/embed/OZeGyTUxSDw?rel=0" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
+
+You can find more details on the project areas discussed in the video [here](./overview.md#how-are-we-doing-it).
 
 ## Schedule
 
