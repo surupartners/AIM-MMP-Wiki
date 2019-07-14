@@ -23,12 +23,13 @@ h4 {
 }
 .logo--home {
     float: right;
-    margin: 0 0 2em 2em;
+    margin: 0 0 1em 1em;
     width: 4em;
 }
 @media (min-width: 40em) {
     .logo--home {
         width: 8em;
+        margin: margin: 0 0 2em 2em;
     }
 }
 .logo--overview {
