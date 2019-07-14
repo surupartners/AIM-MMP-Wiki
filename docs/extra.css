@@ -24,7 +24,7 @@ h4 {
 .logo--home {
     float: right;
     margin: 0 0 2em 2em;
-    width: 5em;
+    width: 4em;
 }
 @media (min-width: 40em) {
     .logo--home {
