@@ -1,4 +1,4 @@
-# Contents
+# Updates
 
 - [July 2019](#july-2019)
 - [June 2019](#june-2019)
