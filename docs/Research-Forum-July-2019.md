@@ -1,3 +1,21 @@
+# Post-Peachtree update
+
+Thanks so much to all of you who participated in our Peachtree research forum in July 2019. We know you set aside a lot of time to work with us even though all of you are busy and we really appreciate it. Hopefully, you found it valuable too.
+
+Here are the photos of the various walls of sticky notes we created together:
+
+- [Canada](./images/Peachtree-July-2019/Canada.jpg)
+- [SA](./images/Peachtree-July-2019/SA-Process.jpg)
+- [Home assignment](./images/Peachtree-July-2019/The-Last-Wall.jpg)
+- [US main wall](./images/Peachtree-July-2019/US-WALL.jpg)
+- [US Short Term & TCK](./images/Peachtree-July-2019/US-Short-Term-&-TCK-Wall.jpg)
+
+We may well need to come back to you for follow up calls or emails once we've digested everything.
+
+- - -
+
+# Original pre-Peachtree notes
+
 We are so glad you'll be joining us in Peachtree City from July 22nd–25th for the MMP Research Forum.
 
 If you have any questions please get in touch on [**hrissupport@aimint.org**](mailto:hrissupport@aimint.org). You can find out more about the MMP project [here](./overview.md).
