@@ -4,11 +4,11 @@ Thanks so much to all of you who participated in our Peachtree research forum in
 
 Here are the photos of the various walls of sticky notes we created together:
 
-- [Canada](./images/Peachtree-July-2019/Canada.jpg)
-- [SA](./images/Peachtree-July-2019/SA-Process.jpg)
-- [Home assignment](./images/Peachtree-July-2019/The-Last-Wall.jpg)
-- [US main wall](./images/Peachtree-July-2019/US-WALL.jpg)
-- [US Short Term & TCK](./images/Peachtree-July-2019/US-Short-Term-&-TCK-Wall.jpg)
+- [Canada](/images/Peachtree-July-2019/Canada.jpg)
+- [SA](/images/Peachtree-July-2019/SA-Process.jpg)
+- [Home assignment](/images/Peachtree-July-2019/The-Last-Wall.jpg)
+- [US main wall](/images/Peachtree-July-2019/US-WALL.jpg)
+- [US Short Term & TCK](/images/Peachtree-July-2019/US-Short-Term-&-TCK-Wall.jpg)
 
 We may well need to come back to you for follow up calls or emails once we've digested everything.
 
