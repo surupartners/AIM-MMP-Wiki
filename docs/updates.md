@@ -1,8 +1,35 @@
 # Updates
 
+If you want to receive email updates, ask to be added to the mailing list by emailing us on [hrissupport@aimint.org](mailto:hrissupport@aimint.org?subject=Please subscribe me to MMP updates&body=Please subscribe me to updates about the AIM MMP project.).
+
+- - -
+
+- [October 2019](#october-2019)
 - [July 2019](#july-2019)
 - [June 2019](#june-2019)
 - [April 2019](#april-2019)
+
+- - -
+# October 2019
+Welcome to another update on the MMP (Member Management Platform) project from the MMP Project Team. We're are in the transition between the research phase and the design phase of the project.
+
+![MMP research stats](./images/oct19-stats.jpg)
+
+After an extremely busy summer of discover & research calls, site visits, process mapping, and really total immersion into the AIM community we've been spending the last month starting to ingest the large amount of data we've collected from our research. This ingestion and categorization of data will help set the stage for our Design phase to come.
+
+We want to thank all of those who participated with our team in calls, office visits, through homework requests and beyond. We look forward to more follow up calls in the months to come.
+
+![MMP project progress](./images/oct19-timeline.jpg)
+
+In looking ahead to the design phase we wanted to highlight what you can expect in the coming season.
+
+1. The project team will finish ingesting the research and will begin to define what should and shouldn't be covered in the system.
+1. We will then devise a broad systems architecture for how the system should work, based on the research.
+1. A consultation will take place with each office regarding the design to ensure that we are in agreement with what should be part of the system based on our research discussions and the business value that has been identified. These consultation will likely include a degree of prioritization, acknowledging that budgets will constrain to a degree what is possible.
+1. This agreed design will then be taken forward into a technology selection process to ensure the systems we choose are the right ones for the task again taking account of what we have learned in the research.
+1. Finally we will craft a more detailed design of the specific areas of the system ahead of the build phase. It is likely we will start the build of one area (e.g. recruitment) ahead of the final completion of the design of the other areas.
+
+As always, if you have questions, comments or input for the project, please get in touch on [**hrissupport@aimint.org**](mailto:hrissupport@aimint.org)
 
 - - -
 # July 2019
@@ -51,7 +78,7 @@ Please do continue to send in your questions, comments and suggestions to [**hri
 - - -
 # April 2019
 
-We're announcing the AIM MMP (Member Management Project). First, read the [project overview](/overview) to understand what the project is aiming to achieve.
+We're announcing the AIM MMP (Member Management Project). First, read the [project overview](./overview.md) to understand what the project is aiming to achieve.
 
 We’re in the early stages of the project so will be spending our time over the coming weeks researching and listening to your needs. 
 

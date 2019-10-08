@@ -28,6 +28,8 @@ Our research will inform the scope of what the new system will be able to suppor
 #### Timeline
 <img class="l-push-bottom" src="/images/timeline.jpg" />
 
+You can see how we're progressing through the project with our [project updates](./updates.md).
+
 ## Why are we doing it
 The current CHARIS system was a great advance for AIM to bring our process of handling personnel data from pen, paper, email and separated systems to a global personnel system. This success represented a lot of effort from the AIM team.
 

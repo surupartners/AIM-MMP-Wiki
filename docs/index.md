@@ -4,9 +4,10 @@
 
 The International Office (IO) have embarked on the AIM Member Management Platform (MMP) project to replace the existing CHARIS system.
 
-You can read an [overview](./overview) of what the project is doing and we'll be posting updates here periodically. You can also [contact the project team](mailto:hrissupport@aimint.org) to make suggestions, submit feature requests for us to follow up on, offer to be involved in the project or give us any information you think will be useful.
+You can read an [overview](./overview.md) of what the project is doing and we'll be posting updates here periodically. You can also [contact the project team](mailto:hrissupport@aimint.org) to make suggestions, submit feature requests for us to follow up on, offer to be involved in the project or give us any information you think will be useful.
 
-- Read the [**Project overview**](./overview)
+- Read the [**project overview**](./overview.md)
+- See [**updates**](./updates.md) of our progress
 - Contact us with suggestions, requests or comments on [**hrissupport@aimint.org**](mailto:hrissupport@aimint.org)
 
 <img class="l-push-ends" src="/images/overview.svg" />
