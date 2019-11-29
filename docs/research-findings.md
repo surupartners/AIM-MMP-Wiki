@@ -2,7 +2,7 @@
 
 Dear Walt, Karen et al.
 
-We've now completed the research phase of the MMP project. This page indexes the various documents and diagrams which represent what we've seen and heard.
+We've now completed the research phase of the MMP project according to the agreed [research design](https://docs.google.com/document/d/1NZ3Qt0jCcgJwYiOkhZZ7TL5R1t3wTXmdRlqLZJX_Pzk/edit?usp=sharing). This page indexes the various documents and diagrams which represent what we've seen and heard. The majority of the links are to living documents which are and will continue to be iterated and adjusted as we continue through the MMP project phases.
 
 The first thing we'll do in the design phase is to extract from our research the areas of functionality that the new MMP system(s) _could_ cover, format and package them in an easy to understand and summarised way, and then present them to you (and, later, the rest of AIM) to start the conversation about what the MMP should include in its scope. Once the scope of the MMP is decided we'll begin technology platform selection and more detailed design work.
 
@@ -31,3 +31,7 @@ At this point, please review the research to check for any misunderstandings, er
 - [**Reporting requirements →**](https://docs.google.com/spreadsheets/d/1EYZW77dfAvrHQhu8jfpJhBODydfTVN7cOkpRf_EGd6g/edit?usp=sharing)
 
 - [**Regions & departments**](https://docs.google.com/document/d/1KM00UshaJcpiRaavfxQ5_LqSpanfIWJbOVEbCmQf0qs/edit?usp=sharing) (and [accompanying map](https://drive.google.com/file/d/1RMu31uggu1g_yf7xvjMPnUxivsaxvbe0/view?usp=sharing))
+
+- [**AIM people →**](https://docs.google.com/spreadsheets/d/1KB1yPFKKnyGADe6ISD-qUKqbhS0tQtiJrvH3Umdf4E8/edit?usp=sharing)
+
+- [**Detailed index of documents and raw research notes →**](https://docs.google.com/spreadsheets/d/1no_a6I-j8D7p-iOv2Ozc0ALKWmjrXL4-WbNb723KBPQ/edit?usp=sharing)
