@@ -31,7 +31,13 @@ We've now completed the research phase of the MMP project according to the agree
 
 ## What's next
 
-The first thing we'll do in the design phase is to extract from our research the areas of functionality that the new MMP system(s) _could_ cover, format and package them in an easy to understand and summarised way, and then present them to you (and, later, the rest of AIM) to start the conversation about what the MMP should include in its scope.
+The first thing we'll do in the design phase is to extract from our research the areas of functionality that the new MMP system(s) _could_ cover, format and package them in an easy to understand and summarised way, and then present them to you (and, later, the rest of AIM) to start the conversation about what the MMP should include in its scope. This will expand on and refine the research documents below, especially the [scenarios & use-cases →](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing) and [identified issues →](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing).
+
+At the same time, we'll come up with a proposed high level architecture, outlining the areas of functionality the MMP will need to fulfil AIM's needs, based on our interpretation of the research. This will give us something tangible to start presenting for early feedback and to prompt scoping and early roll-out planning conversations.
+
+We'll gather this early feedback from regions ASAP (late-Dec/early-Jan) so we can get buy-in and agreement with this high level architecture and overall approach to allow detailed design work to begin without risk of the system approach being rejected at the 11th hour.
+
+The aforementioned scoping conversations will happen _in parallel_ with the early parts of the design phase but we will push to have these conversations quite early on as they will have significant implications — for example, when designing the recruitment & onboarding area we will need to make decisions with MRs about whether their existing CRM systems (eg, ThankQ for EU, ACT  for US, Trello for SA)
 
 Once the scope of the MMP is decided we'll begin technology platform selection and more detailed design work.
 
@@ -43,11 +49,15 @@ At this point, please review the research below to check for any misunderstandin
 
 - [**Scenarios & use-cases →**](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing)
 
-    You can find more details about how we've used this document [here](research-ingestion.md#scenarios-use-cases).
+    This outlines the high level scenarios that the MMP will need to address and providing richer, narrative information that compliments detailed process information (which you can find in the [process maps](https://drive.google.com/file/d/1RN3G5ILvl0AlOo9-S4F1-_G4g_RqE6dp/view?usp=sharing)). You can find more details about how we've used this document [here](research-ingestion.md#scenarios-use-cases).
 
-- [**Identifies issues & areas requiring clarity →**](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing)
+- [**Identified issues →**](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing)
 
-    This document some high level issues that will need resolving as part of this project (eg, such and such an IO policy is ambiguous and will need adjusting before we implement the MMP) or obvious areas of focus for the design phase to explore as part of the aforementioned work to define the project scope.
+    This document the high level problems that will need addressing with the MMP and obvious areas of focus for the design phase to explore as part of the aforementioned work to define the project scope.
+
+- [**Areas requiring clarity →**](https://docs.google.com/document/d/1C_LD9rHH9f7ZKXAA59ywybvlhYNc0puY1bkwH0rZgFI/edit#)
+
+    This document outlines some areas of clarity we'll need during the project. For example, _'such and such an IO policy is ambiguous and will need adjusting before we implement the MMP_', or _'regions have different interpretations of policy X'_, or _'everyone ignores policy Y and does this instead'_.
 
 - [**Feature capture document →**](https://docs.google.com/document/d/1rbnvLaqszc3ksgsomIMEtMtTEFTTtOF2erGqeAlcYxc/edit?usp=sharing)
 
