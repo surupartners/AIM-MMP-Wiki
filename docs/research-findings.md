@@ -31,7 +31,7 @@ We've now completed the research phase of the MMP project according to the agree
 
 ## What's next
 
-The first thing we'll do in the design phase is to extract from our research the areas of functionality that the new MMP system(s) _could_ cover, format and package them in an easy to understand and summarised way, and then present them to you (and, later, the rest of AIM) to start the conversation about what the MMP should include in its scope. This will expand on and refine the research documents below, especially the [scenarios & use-cases →](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing) and [identified issues →](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing).
+The first thing we'll do in the design phase (in late-Dec/early-Jan) is to extract from our research the areas of functionality that the new MMP system(s) _could_ cover, format and package them in an easy to understand and summarised way, and then present them to you (and, later, the rest of AIM) to start the conversation about what the MMP should include in its scope. This will expand on and refine the research documents below, especially the [scenarios & use-cases](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing) and [identified issues](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing) — this is really just a process of doing a final, fine-grained pass through our research to find any areas of broad functionality we may have missed from those documents since we've been doing this as we go along and noting our thoughts in the two documents above.
 
 At the same time, we'll come up with a proposed high level architecture, outlining the areas of functionality the MMP will need to fulfil AIM's needs, based on our interpretation of the research. This will give us something tangible to start presenting for early feedback and to prompt scoping and early roll-out planning conversations.
 
@@ -49,7 +49,9 @@ At this point, please review the research below to check for any misunderstandin
 
 - [**Scenarios & use-cases →**](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing)
 
-    This outlines the high level scenarios that the MMP will need to address and providing richer, narrative information that compliments detailed process information (which you can find in the [process maps](https://drive.google.com/file/d/1RN3G5ILvl0AlOo9-S4F1-_G4g_RqE6dp/view?usp=sharing)). You can find more details about how we've used this document [here](research-ingestion.md#scenarios-use-cases).
+    This outlines the high level scenarios that the MMP will need to address and providing richer, narrative information that compliments detailed process information (which you can find in the [process maps](https://drive.google.com/file/d/1RN3G5ILvl0AlOo9-S4F1-_G4g_RqE6dp/view?usp=sharing)).
+
+    You can find more details about how we've used this document [here](research-ingestion.md#scenarios-use-cases).
 
 - [**Identified issues →**](https://docs.google.com/document/d/1-GMCG42ZAG0OrBRfSEZMZZZPhlq2PakwNnnRaNS-D3M/edit?usp=sharing)
 
@@ -61,7 +63,7 @@ At this point, please review the research below to check for any misunderstandin
 
 - [**Feature capture document →**](https://docs.google.com/document/d/1rbnvLaqszc3ksgsomIMEtMtTEFTTtOF2erGqeAlcYxc/edit?usp=sharing)
 
-    This document is a mixture of team-identified requirements (ie, things that Suru, Ted or Lisa have spotted during the research which the MMP might need to cover) and specific requests from AIM people (either emailed into the MMP project team or raised during research sessions). A number of items from this document will, during the the design phase, be extracted into the summary mentioned above of possible areas of functionality of the MMP.
+    This document is a mixture of team-identified requirements (ie, things that Suru, Ted or Lisa have spotted during the research which the MMP might need to cover) and specific requests from AIM people (either emailed into the MMP project team or raised during research sessions). A number of items from this document will, during the the design phase, be extracted into the summary mentioned above of possible areas of functionality of the MMP. Some of these are quite detailed features which you won't see highlighted in our early design phase work — we need to get broad alignment on approach and the MMP's 'shape' before we start discussing very specific features.
 
     You can find more details about how we've used this document [here](research-ingestion.md#featuresrequests).
 
