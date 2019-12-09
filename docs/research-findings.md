@@ -37,7 +37,7 @@ At the same time, we'll come up with a proposed high level architecture, outlini
 
 We'll gather this early feedback from regions ASAP (late-Dec/early-Jan) so we can get buy-in and agreement with this high level architecture and overall approach to allow detailed design work to begin without risk of the system approach being rejected at the 11th hour.
 
-The aforementioned scoping conversations will happen _in parallel_ with the early parts of the design phase but we will push to have these conversations quite early on as they will have significant implications — for example, when designing the recruitment & onboarding area we will need to make decisions with MRs about whether their existing CRM systems (eg, ThankQ for EU, ACT  for US, Trello for SA)
+The aforementioned scoping conversations will happen _in parallel_ with the early parts of the design phase but we will push to have these conversations quite early on as they will have significant implications — for example, when designing the recruitment & onboarding area we will need to make decisions with MRs about whether their existing CRM systems (eg, ThankQ for EU, ACT  for US, Trello for SA) should stay in place or not.
 
 Once the scope of the MMP is decided we'll begin technology platform selection and more detailed design work.
 
