@@ -23,6 +23,8 @@
     </div>
 </div>
 
+> **Note** — This research is _not_ for consumption by broad groups within AIM. early on during the design phase we will be creating presentable artefacts which can be shared and which we will use when speaking to regions about our recommendations. please do not share this page.
+
 Dear Walt, Karen et al.
 
 We've now completed the research phase of the MMP project according to the agreed [research design](https://docs.google.com/document/d/1NZ3Qt0jCcgJwYiOkhZZ7TL5R1t3wTXmdRlqLZJX_Pzk/edit?usp=sharing). This page indexes the various documents and diagrams which represent what we've seen and heard. The majority of the links are to living documents which are and will continue to be iterated and adjusted as we continue through the MMP project phases.
@@ -46,6 +48,8 @@ Once the scope of the MMP is decided we'll begin technology platform selection a
 At this point, please review the research below to check for any misunderstandings, errors or omissions.
 
 - - -
+
+> **Note** — This research is _not_ for consumption by broad groups within AIM. early on during the design phase we will be creating presentable artefacts which can be shared and which we will use when speaking to regions about our recommendations. please do not share this page.
 
 - [**Scenarios & use-cases →**](https://docs.google.com/document/d/1X1d97bUGy89gwhAcCkFMk2mLdx6zH8BdKfh3_0GwVu0/edit?usp=sharing)
 
